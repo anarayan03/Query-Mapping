@@ -1,0 +1,8 @@
+create table library
+(
+Book_Id number,
+Book_Name varchar2(20),
+Author_Name varchar2(20),
+Price number,
+Quantity number
+);
